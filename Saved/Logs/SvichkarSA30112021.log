@@ -1423,3 +1423,383 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.12.11-13.41.50:051][321]LogSavePackage: Moving 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Saved/MainGM7A6C7B124FF40DB8EDB1A3B857B6D622.tmp' to 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Content/_Svichkar_SA/Main/MainGM.uasset'
 [2021.12.11-13.41.50:065][321]AssetCheck: New page: Asset Save: MainGM
 [2021.12.11-13.41.50:065][321]LogContentValidation: Display: Validating Blueprint /Game/_Svichkar_SA/Main/MainGM.MainGM
+[2021.12.11-13.47.42:897][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.12.11-13.47.42:906][562]LogSavePackage: Moving 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Saved/MainLevel5573B697493CF8278709038F19939D61.tmp' to 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Content/_Svichkar_SA/Levels/Main/MainLevel.umap'
+[2021.12.11-13.47.43:041][562]LogSavePackage: Moving 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Saved/MainLevel_BuiltData20F8AF884B93B44E240542BFC56E7F3D.tmp' to 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Content/_Svichkar_SA/Levels/Main/MainLevel_BuiltData.uasset'
+[2021.12.11-13.47.43:155][562]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.11-13.47.43:155][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_Svichkar_SA/Levels/Main/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.11-13.47.43:155][562]LogContentValidation: Display: Validating World /Game/_Svichkar_SA/Levels/Main/MainLevel.MainLevel
+[2021.12.11-13.48.35:552][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.12.11-13.48.43:639][313]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Svichkar_SA/Chars/MainChar.MainChar
+[2021.12.11-13.48.44:272][314]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/CharacterMovementComponent_16.svg'. File could not be found
+[2021.12.11-13.51.33:368][563]BlueprintLog: New page: Compile MainChar
+[2021.12.11-13.51.33:435][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.12.11-13.53.07:404][681]LogSlate: Took 0.033294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.11-13.53.15:444][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Svichkar_SA/Chars/MainChar" FILE="E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Content/_Svichkar_SA/Chars/MainChar.uasset" SILENT=true
+[2021.12.11-13.53.15:450][494]LogSavePackage: Moving 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Saved/MainCharAB4CBDEF4501448073994DAFE10E6A46.tmp' to 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Content/_Svichkar_SA/Chars/MainChar.uasset'
+[2021.12.11-13.53.15:465][494]AssetCheck: New page: Asset Save: MainChar
+[2021.12.11-13.53.15:465][494]LogContentValidation: Display: Validating Blueprint /Game/_Svichkar_SA/Chars/MainChar.MainChar
+[2021.12.11-13.53.16:224][574]BlueprintLog: New page: Compile MainChar
+[2021.12.11-13.53.16:280][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.12.11-13.53.18:457][817]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.11-13.53.18:463][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.11-13.53.18:464][817]PIE: New page: PIE session: MainLevel (12 дек. 2021 г., 09:53:18)
+[2021.12.11-13.53.18:464][817]LogPlayLevel: Creating play world package: /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel
+[2021.12.11-13.53.18:465][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001747s)
+[2021.12.11-13.53.18:467][817]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.11-13.53.18:467][817]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2021.12.11-13.53.18:467][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Svichkar_SA/Levels/Main/MainLevel.MainLevel to /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel.MainLevel (0.003178s)
+[2021.12.11-13.53.18:503][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.12.11-13.53.18:504][817]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.11-13.53.18:504][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.11-13.53.18:504][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.11-13.53.18:504][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.11-13.53.18:504][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.11-13.53.18:504][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.11-13.53.18:504][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.11-13.53.18:504][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.11-13.53.18:504][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.11-13.53.18:505][817]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.11-13.53.18:505][817]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.11-13.53.18:510][817]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.11-13.53.18:510][817]LogAudioMixer: Display: 1: FrontRight
+[2021.12.11-13.53.18:521][817]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.11-13.53.18:521][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.11-13.53.18:521][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.11-13.53.18:521][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.11-13.53.18:522][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.11-13.53.18:522][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.11-13.53.18:524][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.11-13.53.18:524][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.11-13.53.18:524][817]LogInit: FAudioDevice initialized.
+[2021.12.11-13.53.18:524][817]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2021.12.11-13.53.18:568][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-13.53.18:568][817]LogLinker: Warning: Failed to load '/Game/_Svichkar_SA/MainGM': Can't find file.
+[2021.12.11-13.53.18:569][817]LogLinker: Warning: Failed to load '/Game/_Svichkar_SA/MainGM': Can't find file.
+[2021.12.11-13.53.18:569][817]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Svichkar_SA/MainGM.MainGM_C'
+[2021.12.11-13.53.18:569][817]LogLoad: Game class is 'GameModeBase'
+[2021.12.11-13.53.18:570][817]LogWorld: Bringing World /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.11-23.53.18
+[2021.12.11-13.53.18:570][817]LogWorld: Bringing up level for play took: 0.001048
+[2021.12.11-13.53.18:570][817]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.12.11-13.53.18:572][817]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.12.11-13.53.18:574][817]PIE: Server logged in
+[2021.12.11-13.53.18:575][817]PIE: Play in editor total start time 0,112 seconds.
+[2021.12.11-13.53.24:274][ 75]LogSlate: Window 'SvichkarSA30112021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.11-13.53.24:298][ 75]LogWorld: BeginTearingDown for /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel
+[2021.12.11-13.53.24:298][ 75]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-13.53.24:299][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-13.53.24:309][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.11-13.53.24:322][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-13.53.24:353][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.11-13.53.24:353][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.11-13.53.24:354][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.11-13.53.24:362][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.12.11-13.53.24:397][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.12.11-13.53.24:413][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.12.11-13.53.27:173][329]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.11-13.53.27:180][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.11-13.53.27:180][329]PIE: New page: PIE session: MainLevel (12 дек. 2021 г., 09:53:27)
+[2021.12.11-13.53.27:180][329]LogPlayLevel: Creating play world package: /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel
+[2021.12.11-13.53.27:182][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001788s)
+[2021.12.11-13.53.27:183][329]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.11-13.53.27:211][329]LogPlayLevel: PIE: World Init took: (0.029329s)
+[2021.12.11-13.53.27:211][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Svichkar_SA/Levels/Main/MainLevel.MainLevel to /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel.MainLevel (0.031299s)
+[2021.12.11-13.53.27:244][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.12.11-13.53.27:246][329]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.11-13.53.27:246][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.11-13.53.27:246][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.11-13.53.27:246][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.11-13.53.27:246][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.11-13.53.27:246][329]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.11-13.53.27:246][329]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.11-13.53.27:246][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.11-13.53.27:246][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.11-13.53.27:246][329]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.11-13.53.27:246][329]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.11-13.53.27:250][329]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.11-13.53.27:250][329]LogAudioMixer: Display: 1: FrontRight
+[2021.12.11-13.53.27:261][329]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.11-13.53.27:261][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.11-13.53.27:261][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.11-13.53.27:261][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.11-13.53.27:262][329]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.11-13.53.27:262][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.11-13.53.27:263][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.11-13.53.27:263][329]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.11-13.53.27:263][329]LogInit: FAudioDevice initialized.
+[2021.12.11-13.53.27:264][329]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2021.12.11-13.53.27:277][329]LogLoad: Game class is 'GameModeBase'
+[2021.12.11-13.53.27:278][329]LogWorld: Bringing World /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.11-23.53.27
+[2021.12.11-13.53.27:278][329]LogWorld: Bringing up level for play took: 0.000701
+[2021.12.11-13.53.27:278][329]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.12.11-13.53.27:281][329]PIE: Server logged in
+[2021.12.11-13.53.27:282][329]PIE: Play in editor total start time 0,103 seconds.
+[2021.12.11-13.53.34:726][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-13.53.34:726][180]LogWorld: BeginTearingDown for /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel
+[2021.12.11-13.53.34:726][180]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-13.53.34:726][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-13.53.34:737][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.11-13.53.34:750][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-13.53.34:779][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-13.53.34:779][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.11-13.53.34:780][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.11-13.53.34:789][180]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.12.11-13.53.34:829][180]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2021.12.11-13.53.34:869][181]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.12.11-13.54.47:774][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.12.11-13.54.47:782][863]LogSavePackage: Moving 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Saved/MainLevel177D4F8C42E179E14C773794BEF1BA6D.tmp' to 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Content/_Svichkar_SA/Levels/Main/MainLevel.umap'
+[2021.12.11-13.54.47:918][863]LogSavePackage: Moving 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Saved/MainLevel_BuiltData7F6698464A6A70F4086845A984AEDB07.tmp' to 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Content/_Svichkar_SA/Levels/Main/MainLevel_BuiltData.uasset'
+[2021.12.11-13.54.48:041][863]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.11-13.54.48:041][863]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_Svichkar_SA/Levels/Main/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.11-13.54.48:042][863]LogContentValidation: Display: Validating World /Game/_Svichkar_SA/Levels/Main/MainLevel.MainLevel
+[2021.12.11-13.54.49:224][951]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.12.11-13.54.49:235][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.11-13.54.49:235][951]PIE: New page: PIE session: MainLevel (12 дек. 2021 г., 09:54:49)
+[2021.12.11-13.54.49:235][951]LogPlayLevel: Creating play world package: /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel
+[2021.12.11-13.54.49:237][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002219s)
+[2021.12.11-13.54.49:238][951]LogAIModule: Creating AISystem for world MainLevel
+[2021.12.11-13.54.49:238][951]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2021.12.11-13.54.49:239][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Svichkar_SA/Levels/Main/MainLevel.MainLevel to /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel.MainLevel (0.003642s)
+[2021.12.11-13.54.49:271][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.12.11-13.54.49:273][951]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.11-13.54.49:273][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.11-13.54.49:273][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.11-13.54.49:273][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.11-13.54.49:273][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.11-13.54.49:273][951]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.11-13.54.49:273][951]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.11-13.54.49:273][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.11-13.54.49:273][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.11-13.54.49:273][951]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.11-13.54.49:273][951]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.11-13.54.49:277][951]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.11-13.54.49:277][951]LogAudioMixer: Display: 1: FrontRight
+[2021.12.11-13.54.49:288][951]LogAudioMixer: Display: Using Audio Device Динамики (2- USB Audio Device)
+[2021.12.11-13.54.49:288][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.11-13.54.49:288][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.11-13.54.49:288][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.11-13.54.49:289][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.11-13.54.49:289][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.11-13.54.49:290][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.11-13.54.49:290][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.11-13.54.49:290][951]LogInit: FAudioDevice initialized.
+[2021.12.11-13.54.49:290][951]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainLevel'.
+[2021.12.11-13.54.49:304][951]LogLoad: Game class is 'GameModeBase'
+[2021.12.11-13.54.49:338][951]LogWorld: Bringing World /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.12.11-23.54.49
+[2021.12.11-13.54.49:374][951]LogWorld: Bringing up level for play took: 0.069723
+[2021.12.11-13.54.49:374][951]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.12.11-13.54.49:377][951]PIE: Server logged in
+[2021.12.11-13.54.49:378][951]PIE: Play in editor total start time 0,148 seconds.
+[2021.12.11-13.54.49:403][951]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:498][952]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:568][953]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:574][954]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:602][955]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:610][956]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:621][957]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:631][958]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:640][959]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:648][960]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:657][961]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:665][962]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:673][963]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:682][964]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:690][965]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:698][966]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:707][967]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:715][968]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:723][969]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:732][970]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:740][971]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:748][972]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:757][973]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:765][974]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:773][975]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:782][976]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:790][977]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:798][978]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:807][979]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:815][980]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:823][981]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:832][982]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:840][983]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:848][984]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:857][985]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:865][986]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:873][987]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:882][988]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:890][989]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:898][990]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:907][991]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:915][992]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:923][993]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:932][994]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:940][995]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:948][996]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:957][997]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:965][998]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:973][999]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:982][  0]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:990][  1]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.49:998][  2]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:007][  3]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:015][  4]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:023][  5]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:032][  6]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:040][  7]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:048][  8]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:057][  9]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:065][ 10]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:073][ 11]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:082][ 12]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:090][ 13]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:098][ 14]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:107][ 15]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:115][ 16]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:123][ 17]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:132][ 18]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:140][ 19]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:148][ 20]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:157][ 21]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:165][ 22]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:174][ 23]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:182][ 24]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:191][ 25]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:199][ 26]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:208][ 27]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:216][ 28]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:224][ 29]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:233][ 30]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:241][ 31]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:249][ 32]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:258][ 33]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:266][ 34]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:274][ 35]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:282][ 36]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:291][ 37]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:299][ 38]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:308][ 39]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:316][ 40]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:324][ 41]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:333][ 42]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:341][ 43]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:349][ 44]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:358][ 45]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:366][ 46]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:374][ 47]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:383][ 48]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:391][ 49]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:399][ 50]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:407][ 51]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:416][ 52]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:424][ 53]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:432][ 54]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:441][ 55]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:449][ 56]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:457][ 57]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:466][ 58]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:474][ 59]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:482][ 60]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:491][ 61]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:499][ 62]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:507][ 63]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:516][ 64]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:524][ 65]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:532][ 66]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:541][ 67]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:549][ 68]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:557][ 69]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:566][ 70]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:574][ 71]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:582][ 72]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:591][ 73]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:599][ 74]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:607][ 75]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:616][ 76]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:624][ 77]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:632][ 78]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:640][ 79]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:649][ 80]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:657][ 81]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:666][ 82]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:674][ 83]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:682][ 84]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:691][ 85]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:699][ 86]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:707][ 87]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:716][ 88]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:727][ 89]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:750][ 90]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:758][ 91]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:771][ 92]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:779][ 93]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:788][ 94]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:799][ 95]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:820][ 96]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:829][ 97]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:842][ 98]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:861][ 99]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:881][100]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:901][101]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:921][102]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:941][103]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:962][104]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.50:982][105]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:002][106]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:022][107]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:042][108]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:062][109]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:081][110]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:101][111]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:120][112]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:140][113]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:160][114]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:179][115]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:200][116]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:219][117]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:242][118]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:262][119]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:283][120]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:302][121]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:322][122]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:342][123]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:361][124]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:381][125]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:401][126]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:421][127]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:441][128]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:461][129]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:481][130]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:500][131]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:520][132]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:539][133]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:560][134]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:579][135]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:599][136]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:619][137]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:639][138]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:659][139]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:678][140]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:698][141]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:717][142]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:736][143]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:756][144]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:882][154]LogBlueprintUserMessages: [MainChar_C_1] Hello
+[2021.12.11-13.54.51:916][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-13.54.51:916][154]LogWorld: BeginTearingDown for /Game/_Svichkar_SA/Levels/Main/UEDPIE_0_MainLevel
+[2021.12.11-13.54.51:916][154]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-13.54.51:916][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-13.54.51:974][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.11-13.54.52:023][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-13.54.52:052][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-13.54.52:053][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.11-13.54.52:054][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.11-13.54.52:062][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.12.11-13.54.52:095][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.12.11-13.54.52:131][155]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.12.11-13.54.54:836][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.12.11-13.54.54:845][291]LogSavePackage: Moving 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Saved/MainLevel4BF9983F4697C11E2F7D5380B053F5D3.tmp' to 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Content/_Svichkar_SA/Levels/Main/MainLevel.umap'
+[2021.12.11-13.54.55:057][291]LogSavePackage: Moving 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Saved/MainLevel_BuiltData53978FE54AEB12D3D6B7CF8C4CE55472.tmp' to 'E:/_Users/Sergio/My Documents/_Учеба/UE4/HomeWork Projects/SvichkarSA30112021/Content/_Svichkar_SA/Levels/Main/MainLevel_BuiltData.uasset'
+[2021.12.11-13.54.55:187][291]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.11-13.54.55:187][291]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_Svichkar_SA/Levels/Main/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.12.11-13.54.55:187][291]LogContentValidation: Display: Validating World /Game/_Svichkar_SA/Levels/Main/MainLevel.MainLevel
